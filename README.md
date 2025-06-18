@@ -6,7 +6,7 @@ A full-stack web app powered by NASA’s Astronomy Picture of the Day (APOD) API
 NASA APOD Explorer lets users dive into breathtaking space imagery, explore past celestial events by date, or simply hit “Surprise Me” to get a random APOD. Whether it’s a stunning galaxy photo or an educational space video, this app brings space a little closer to Earth—right in your browser.
 
 🚀 Live Demo
-🔗 Explore the Cosmos Now
+🔗 https://nasa-apod-app-q1tg.vercel.app/
 
 🌠 Features
 📅 Daily Image Feed: See today’s APOD instantly on load
@@ -18,16 +18,12 @@ NASA APOD Explorer lets users dive into breathtaking space imagery, explore past
 
 🛠️ Getting Started
 
-1. Clone the Repository
-git clone https://github.com/your-username/nasa-apod-explorer.git
-cd nasa-apod-explorer
-
-2. Set Up the Backend
+1. Set Up the Backend
 cd backend
 npm install
 npm start
 
-4. Set Up the Frontend
+2. Set Up the Frontend
 cd frontend
 npm install
 npm start
